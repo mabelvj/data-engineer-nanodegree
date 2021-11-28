@@ -1,0 +1,5 @@
+pandas
+wheel
+cassandra-driver[graph]
+ipykernel
+ipython

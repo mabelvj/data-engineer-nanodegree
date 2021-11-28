@@ -72,7 +72,7 @@ target/
 .ipynb_checkpoints
 
 # pyenv
-.python-version
+# .python-version
 
 # celery beat schedule file
 celerybeat-schedule
@@ -178,3 +178,4 @@ coverage_html_report/
 *__pycache__
 *.vscode
 *.ipynb_checkpoints
+*install
